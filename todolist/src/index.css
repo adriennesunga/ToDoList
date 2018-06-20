@@ -1,7 +1,11 @@
 body {
     padding: 50px;
-    background-color: #FADBD8;
+    background: linear-gradient(#74ebd5, #acb6e5);
     font-family: sans-serif;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+
 }
 
 container {
