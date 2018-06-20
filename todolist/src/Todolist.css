@@ -30,6 +30,11 @@
     list-style: none;
 }
 
+.todolistMain .theList li:hover{
+    background-color: blue;
+    cursor: pointer;
+}
+
 ul.theList{
     padding: 0;
 }
